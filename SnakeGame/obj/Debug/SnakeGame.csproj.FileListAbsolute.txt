@@ -1,0 +1,4 @@
+C:\Users\Anthony\Projects\SnakeGame\SnakeGame\bin\SnakeGame.dll
+C:\Users\Anthony\Projects\SnakeGame\SnakeGame\bin\SnakeGame.pdb
+C:\Users\Anthony\Projects\SnakeGame\SnakeGame\obj\Debug\SnakeGame.dll
+C:\Users\Anthony\Projects\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
